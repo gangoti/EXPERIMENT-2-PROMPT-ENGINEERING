@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4d73b10e-ced9-42a6-aa50-8c8e410157a3" /># EXP-2-PROMPT-ENGINEERING-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+## EXP-2-PROMPT-ENGINEERING-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 ## Reg no:-212222060067
 ## Aim: 
   To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
@@ -43,6 +43,7 @@ Blockchain is like a digital notebook that is shared by many computers around th
 This system is decentralized (no single controller), transparent (everyone can see records), and secure (hard to hack). For example, in Bitcoin, blockchain records who owns and transfers money without needing a bank. In the supply chain, companies like Walmart use it to track food from farms to stores, ensuring safety and trust.
 
 Blockchain reduces fraud, lowers costs, and speeds up processes. But it also uses a lot of energy and struggles with handling huge amounts of data. Despite these challenges, it is becoming a powerful tool for finance, healthcare, voting, and more.
+## Result:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bcb35b1e-1521-4d6a-bc6b-f49ca0de14c9" />
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00ffc192-d1a9-45ba-903f-4cc7ed01c38d" />
